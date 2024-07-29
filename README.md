@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sydney Gruczelak!
+- 🌱 I’m a recent graduate from Michigan State University.
+- 👀 I graduated with a degree in data science and I'm actively looking for work!
+- 📫 sydneyrgruczelak@gmail.com
